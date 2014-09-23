@@ -11,7 +11,7 @@
   1. 安装 Python，并将 Python 安装目录配置进环境变量 PATH，能在命令行环境直接运行 python 程序和 python 相关的脚本
   2. 下载 https://bootstrap.pypa.io/get-pip.py
   3. 运行 ~python get-pip.py~
-  4. ~svn checkout http://1.1.2.17:8000/svn/yigocloud/YigoRuntime/trunk/ yigo-runtime~
+  4. checkout source code
   5. ~cd yigo-runtime~
   6. Windows 系统请先安装 对应的 [[http://www.voidspace.org.uk/python/modules.shtml#pycrypto][PyCrypto]] 库
   7. 安装项目依赖的 Python 第三方库， ~pip install -r requirements.txt~
