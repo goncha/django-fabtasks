@@ -1,6 +1,5 @@
 # -*- mode: org; coding: utf-8 -*-
 #+TITLE: README
-#+AUTHOR: 陈 刚
 
 * 介绍
 
